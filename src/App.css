@@ -1,0 +1,26 @@
+body{overflow-x: hidden;
+    font-family: 'Sora';}
+.bgred {
+    background-color: #C84B31;
+}
+
+.textred {
+    color: #C84B31;
+    ;
+}
+
+.bggreen {
+    background-color: #346751;
+}
+html {
+scroll-behavior: smooth;
+}
+.animate__animated.animate__bounce {
+--animate-duration: 2s;
+}
+
+/* This changes all the animations globally */
+:root {
+--animate-duration: 800ms;
+--animate-delay: 0.9s;
+}
