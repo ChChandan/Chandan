@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Chandan/static/css/main.055b5399.chunk.css",
-    "main.js": "/Chandan/static/js/main.61e96bcd.chunk.js",
-    "main.js.map": "/Chandan/static/js/main.61e96bcd.chunk.js.map",
-    "runtime-main.js": "/Chandan/static/js/runtime-main.067248bf.js",
-    "runtime-main.js.map": "/Chandan/static/js/runtime-main.067248bf.js.map",
+    "main.css": "/Chandan/static/css/main.d51b1a52.chunk.css",
+    "main.js": "/Chandan/static/js/main.00dff404.chunk.js",
+    "main.js.map": "/Chandan/static/js/main.00dff404.chunk.js.map",
+    "runtime-main.js": "/Chandan/static/js/runtime-main.d3b0a4a4.js",
+    "runtime-main.js.map": "/Chandan/static/js/runtime-main.d3b0a4a4.js.map",
     "static/css/2.98985107.chunk.css": "/Chandan/static/css/2.98985107.chunk.css",
-    "static/js/2.67327f61.chunk.js": "/Chandan/static/js/2.67327f61.chunk.js",
-    "static/js/2.67327f61.chunk.js.map": "/Chandan/static/js/2.67327f61.chunk.js.map",
-    "static/js/3.c0e6d0ba.chunk.js": "/Chandan/static/js/3.c0e6d0ba.chunk.js",
-    "static/js/3.c0e6d0ba.chunk.js.map": "/Chandan/static/js/3.c0e6d0ba.chunk.js.map",
+    "static/js/2.1691aa7a.chunk.js": "/Chandan/static/js/2.1691aa7a.chunk.js",
+    "static/js/2.1691aa7a.chunk.js.map": "/Chandan/static/js/2.1691aa7a.chunk.js.map",
+    "static/js/3.e4069331.chunk.js": "/Chandan/static/js/3.e4069331.chunk.js",
+    "static/js/3.e4069331.chunk.js.map": "/Chandan/static/js/3.e4069331.chunk.js.map",
     "index.html": "/Chandan/index.html",
     "static/css/2.98985107.chunk.css.map": "/Chandan/static/css/2.98985107.chunk.css.map",
-    "static/css/main.055b5399.chunk.css.map": "/Chandan/static/css/main.055b5399.chunk.css.map",
-    "static/js/2.67327f61.chunk.js.LICENSE.txt": "/Chandan/static/js/2.67327f61.chunk.js.LICENSE.txt",
+    "static/css/main.d51b1a52.chunk.css.map": "/Chandan/static/css/main.d51b1a52.chunk.css.map",
+    "static/js/2.1691aa7a.chunk.js.LICENSE.txt": "/Chandan/static/js/2.1691aa7a.chunk.js.LICENSE.txt",
     "static/media/Chandan Cherukuri resume .41a5b5a7.pdf": "/Chandan/static/media/Chandan Cherukuri resume .41a5b5a7.pdf",
     "static/media/SRMAP.b7b6ef1a.png": "/Chandan/static/media/SRMAP.b7b6ef1a.png",
     "static/media/chandan.b961c7a1.jpg": "/Chandan/static/media/chandan.b961c7a1.jpg",
     "static/media/dps.729493ff.png": "/Chandan/static/media/dps.729493ff.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.067248bf.js",
+    "static/js/runtime-main.d3b0a4a4.js",
     "static/css/2.98985107.chunk.css",
-    "static/js/2.67327f61.chunk.js",
-    "static/css/main.055b5399.chunk.css",
-    "static/js/main.61e96bcd.chunk.js"
+    "static/js/2.1691aa7a.chunk.js",
+    "static/css/main.d51b1a52.chunk.css",
+    "static/js/main.00dff404.chunk.js"
   ]
 }
